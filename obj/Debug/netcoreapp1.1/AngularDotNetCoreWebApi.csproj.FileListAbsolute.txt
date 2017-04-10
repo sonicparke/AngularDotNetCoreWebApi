@@ -1,0 +1,10 @@
+/Users/bmcalister/Documents/DEV/AngularDotNetCoreWebApi/bin/Debug/netcoreapp1.1/AngularDotNetCoreWebApi.deps.json
+/Users/bmcalister/Documents/DEV/AngularDotNetCoreWebApi/bin/Debug/netcoreapp1.1/AngularDotNetCoreWebApi.runtimeconfig.json
+/Users/bmcalister/Documents/DEV/AngularDotNetCoreWebApi/bin/Debug/netcoreapp1.1/AngularDotNetCoreWebApi.runtimeconfig.dev.json
+/Users/bmcalister/Documents/DEV/AngularDotNetCoreWebApi/bin/Debug/netcoreapp1.1/AngularDotNetCoreWebApi.dll
+/Users/bmcalister/Documents/DEV/AngularDotNetCoreWebApi/bin/Debug/netcoreapp1.1/AngularDotNetCoreWebApi.pdb
+/Users/bmcalister/Documents/DEV/AngularDotNetCoreWebApi/obj/Debug/netcoreapp1.1/AngularDotNetCoreWebApi.csprojResolveAssemblyReference.cache
+/Users/bmcalister/Documents/DEV/AngularDotNetCoreWebApi/obj/Debug/netcoreapp1.1/AngularDotNetCoreWebApi.csproj.CoreCompileInputs.cache
+/Users/bmcalister/Documents/DEV/AngularDotNetCoreWebApi/obj/Debug/netcoreapp1.1/AngularDotNetCoreWebApi.AssemblyInfo.cs
+/Users/bmcalister/Documents/DEV/AngularDotNetCoreWebApi/obj/Debug/netcoreapp1.1/AngularDotNetCoreWebApi.dll
+/Users/bmcalister/Documents/DEV/AngularDotNetCoreWebApi/obj/Debug/netcoreapp1.1/AngularDotNetCoreWebApi.pdb
